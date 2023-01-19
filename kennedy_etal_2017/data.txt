@@ -1,0 +1,6 @@
+2022-12-14 08:57:20
+Call: livv -v /glade/u/home/mkelleher/data/cism-2.0.6-tests/titan-gnu/CISM_glissade /glade/u/home/mkelleher/data/cism-2.0.0-tests/titan-gnu/CISM_glissade -o livv_test_20221214_0857 
+Version: 3.0.1
+User: mkelleher
+OS Type: Linux 4.12.14-95.51-default
+Machine: cheyenne6
