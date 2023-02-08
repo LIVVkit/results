@@ -1,0 +1,6 @@
+2023-02-08 15:18:50
+Call: livv -v /glade/scratch/mkelleher/cism_run/update_toward_CISM3/cism/tests/regression/reg_test/cheyenne-intel/CISM_glissade /glade/scratch/mkelleher/cism_run/main/cism/tests/regression/reg_test/cheyenne-intel/CISM_glissade -o results/cism_main_compare_update_toward_CISM3 -s 
+Version: 3.1.0
+User: mkelleher
+OS Type: Linux 4.12.14-95.51-default
+Machine: cheyenne2
